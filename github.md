@@ -40,7 +40,7 @@ git commit -m "初始化提交"
 
 2. **添加远程仓库**
    ```sh
-   git remote add origin https://github.com/你的GitHub用户名/test_gyk.git
+   git remote add origin https://github.com/geyaokai/dl2_test.git
    ```
 
 ### **7. 推送到 GitHub**
